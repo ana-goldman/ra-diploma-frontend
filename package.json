@@ -2,7 +2,7 @@
   "name": "frontend",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://anastasia-shmeleva.github.io/ra-diploma-frontend",
+  "homepage": "https://anastasia-shmeleva.github.io/ra-diploma-frontend/",
   "dependencies": {
     "@reduxjs/toolkit": "^1.7.1",
     "@testing-library/jest-dom": "^5.16.1",

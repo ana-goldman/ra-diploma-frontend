@@ -1,4 +1,4 @@
-﻿[![Build status](https://ci.appveyor.com/api/projects/status/idtq1ld20k03o419?svg=true)](https://ci.appveyor.com/project/anastasia-shmeleva/ra-diploma-front-end)
+﻿[![Build status](https://ci.appveyor.com/api/projects/status/0um08ln7forutas0?svg=true)](https://ci.appveyor.com/project/anastasia-shmeleva/ra-diploma-frontend)
 
 # Дипломный проект курса «React»
 
