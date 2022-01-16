@@ -1,3 +1,5 @@
+import { NavLink } from "react-router-dom";
+
 export default function ProductPreview(props) {
   const {
     id,
@@ -14,7 +16,7 @@ export default function ProductPreview(props) {
           <div className="card-body">
             <p className="card-text">{title}</p>
             <p className="card-text">{price}</p>
-            <a href={`${process.env.PUBLIC_URL}/catalog/${id}.html`} className="btn btn-outline-primary">Заказать</a>
+            <NavLink className="btn btn-outline-primary" to={`/catalog/${id}.html`}>Заказать</NavLink>
           </div>
       </div>
     </div>
