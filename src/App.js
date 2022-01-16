@@ -12,7 +12,7 @@ import Cart from './components/Cart';
 
 function App() {
   return (
-    <Router>
+    <Router basename={process.env.PUBLIC_URL}>
       <Header/>
       <main className="container">
         <div className="row">

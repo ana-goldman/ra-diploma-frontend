@@ -14,7 +14,7 @@ export default function ProductPreview(props) {
           <div className="card-body">
             <p className="card-text">{title}</p>
             <p className="card-text">{price}</p>
-            <a href={`/catalog/${id}.html`} className="btn btn-outline-primary">Заказать</a>
+            <a href={`${process.env.PUBLIC_URL}/catalog/${id}.html`} className="btn btn-outline-primary">Заказать</a>
           </div>
       </div>
     </div>
