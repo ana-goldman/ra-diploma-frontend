@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/ra-diploma-frontend/static/css/main.e7bd4720.css",
+    "main.js": "/ra-diploma-frontend/static/js/main.f49d1e0e.js",
+    "static/js/787.9750ae9a.chunk.js": "/ra-diploma-frontend/static/js/787.9750ae9a.chunk.js",
+    "static/media/banner.jpg": "/ra-diploma-frontend/static/media/banner.5fd2c60d58a8686daee0.jpg",
+    "static/media/footer-sprite.png": "/ra-diploma-frontend/static/media/footer-sprite.b3d5697aeb76ce9f8002.png",
+    "index.html": "/ra-diploma-frontend/index.html",
+    "main.e7bd4720.css.map": "/ra-diploma-frontend/static/css/main.e7bd4720.css.map",
+    "main.f49d1e0e.js.map": "/ra-diploma-frontend/static/js/main.f49d1e0e.js.map",
+    "787.9750ae9a.chunk.js.map": "/ra-diploma-frontend/static/js/787.9750ae9a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e7bd4720.css",
+    "static/js/main.f49d1e0e.js"
+  ]
+}
